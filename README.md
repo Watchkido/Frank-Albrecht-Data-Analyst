@@ -1,4 +1,4 @@
-![banner](https://github.com/DAIvdetango//blob/main/assets/.png)
+![banner](Data Analyst frank Albrecht Banner.png)
 
 ## About me
 
