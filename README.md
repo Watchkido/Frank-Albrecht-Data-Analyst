@@ -1,4 +1,4 @@
-![banner](Data Analyst frank Albrecht Banner.png)
+![banner]((https://github.com/Watchkido/Frank-Albrecht-Data-Analyst/blob/main/Data%20Analyst%20frank%20Albrecht%20Banner.png?raw=true))
 
 ## About me
 
