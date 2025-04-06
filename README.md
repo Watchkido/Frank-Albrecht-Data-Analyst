@@ -1,4 +1,4 @@
-![banner](https://github.com/Watchkido/Frank-Albrecht-Data-Analyst/blob/main/my_data_analyst_frank_Albrecht_banner.png)
+![banner](https://github.com/Watchkido/Frank-Albrecht-Data-Analyst/blob/main/my_data_analyst_frank_albrecht_banner.png)
 ## About me
 
 - 🤓 I’m currently looking for a data analysis internship or entry-level position to dive into real-world datasets and grow my skills!
